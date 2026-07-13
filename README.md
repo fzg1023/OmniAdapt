@@ -1,4 +1,4 @@
-# OmniAdapt
+# OmniAdapt This is the initial code. We will provide more refined code and more detailed instructions before September 1, 2026.
 
 Official code package for **OmniAdapt: Full-Granularity Adaptive Fusion for Robust RGB-T Tracking**.
 
