@@ -1,0 +1,14 @@
+timm==0.9.12
+easydict==1.13
+PyYAML==6.0.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+scipy==1.12.0
+einops==0.8.0
+tqdm==4.66.5
+pandas==2.2.2
+Pillow==10.4.0
+matplotlib==3.9.2
+tensorboardX==2.6.4
+lmdb==1.4.1
+thop==0.1.1.post2209072238
