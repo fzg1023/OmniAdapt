@@ -283,7 +283,7 @@ Model weights, benchmark results, and per-sequence prediction files will be rele
 
 | Resource | Netdisk link | Extraction code | Description |
 | --- | --- | --- | --- |
-| [Full OmniAdapt mode](https://pan.baidu.com/s/10R6mwZK5wxBvoxCz7qW3tg?pwd=omni)l weights | TBD | TBD | Checkpoint for reproducing the main experimental results. |
+| [Full OmniAdapt model weights](https://pan.baidu.com/s/10R6mwZK5wxBvoxCz7qW3tg?pwd=omni) | TBD | TBD | Checkpoint for reproducing the main experimental results. |
 | [Pretrained weights](https://pan.baidu.com/s/10R6mwZK5wxBvoxCz7qW3tg?pwd=omni) | TBD | TBD | Pretrained model required before training. |
 | [Benchmark results](https://pan.baidu.com/s/10R6mwZK5wxBvoxCz7qW3tg?pwd=omni) | TBD | TBD | Results and per-sequence predictions on datasets such as LasHeR, RGBT234, RGBT210, and GTOT. |
 
