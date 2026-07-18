@@ -285,7 +285,7 @@ Model weights, benchmark results, and per-sequence prediction files will be rele
 | --- | --- | --- | --- |
 | Full OmniAdapt model weights | TBD | TBD | Checkpoint for reproducing the main experimental results. |
 | Pretrained weights | TBD | TBD | Pretrained model required before training. |
-| Benchmark results | TBD | TBD | Results and per-sequence predictions on datasets such as LasHeR, RGBT234, RGBT210, and GTOT. |
+| Benchmark results(https://pan.baidu.com/s/10R6mwZK5wxBvoxCz7qW3tg?pwd=omni) | TBD | TBD | Results and per-sequence predictions on datasets such as LasHeR, RGBT234, RGBT210, and GTOT. |
 
 ## Paper and Citation
 
